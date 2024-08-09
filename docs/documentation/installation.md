@@ -1,7 +1,7 @@
 ## Installation
 #### 1. Clone the repository:
 ```shell
-  git clone https://github.com/attendance_system/CustomEmailSearch.git
+  git clone https://github.com/naveenmaan/CustomEmailSearch.git
 ```
 #### 2. Create a virtual environment:
 ```shell
