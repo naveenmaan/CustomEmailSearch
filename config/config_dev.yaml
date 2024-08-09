@@ -1,0 +1,14 @@
+COMMUNICATION:
+  DATABASE: communication
+  CONNECTION: COMMUNICATION_DATABASE
+
+COMMUNICATION_DATABASE:
+  HOST: localhost
+  USERNAME: username
+  PASSWORD: password
+
+USER_AUTH_STORAGE_PATH: absolute_path/token.json
+
+CREDENTIAL_STORAGE_PATH: absolute_path/credentials.json
+
+RULES_FILE_LOCATION: ./config/rule.json

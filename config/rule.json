@@ -1,0 +1,32 @@
+{
+    "inbox_move": {
+            "category": "all",
+            "conditions": [
+                {
+                    "field": "from",
+                    "operator": "contains",
+                    "value": "facebookmail.com"
+                },
+                {
+                    "field": "subject",
+                    "operator": "contains",
+                    "value": "notifications"
+                },
+                {
+                    "field": "received_date",
+                    "operator": "less than",
+                    "value": "100",
+                    "duration_type": "day"
+                }
+            ],
+            "action": [
+                {
+                    "type": "move",
+                    "value": "IMPORTANT"
+                },
+                {
+                    "type": "read"
+                }
+            ]
+        }
+}
