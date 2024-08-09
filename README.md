@@ -1,4 +1,5 @@
 # Custom Email Search
+![Workflow](https://github.com/naveenmaan/CustomEmailSearch/actions/workflows/.github/workflows/units-test-action.yaml/badge.svg)
 
 ## What is ((Custom Email Search))?
 
