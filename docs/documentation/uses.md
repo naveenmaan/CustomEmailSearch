@@ -66,4 +66,4 @@ These credentials are typically stored in a secure configuration file or environ
 Note: This document provides a general overview. Specific implementation details and functionalities may vary based on the script's code.
 
 
-["Installation"]: ./docs/documentation/installation.md
+["Installation"]: ./installation.md
