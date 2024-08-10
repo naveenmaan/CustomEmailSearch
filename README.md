@@ -26,10 +26,12 @@ Read ["Installation"] and then ["Usage"] for the project.
 ["Usage"]: ./docs/documentation/uses.md
 
 ## Development Docs
+- [Requirement] to understand the requirement of the task
 - [Rule] file and its attributes definition
 - [Database] design document
 - [Flow Chart] for the flow of the script
 
+[Requirement]: ./docs/documentation/requirement.md
 [Rule]: ./docs/documentation/rule/rule.md
 [Database]: ./docs/documentation/database.md
 [Flow Chart]: ./docs/documentation/flow_chart.md
