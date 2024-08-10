@@ -26,4 +26,5 @@ This table records actions performed on emails, such as moving, reading, or mark
 - **JSON Column**: The additional_details column in the action_history table uses a JSON data type to store flexible action-specific data. This can be beneficial for storing complex action details.
 - **Performance Optimization**: Profiling the database usage can help identify performance bottlenecks and optimize query execution plans.
 - **Scalability**: Evaluate the database's scalability based on expected data growth and query patterns. Consider using database clustering or sharding if necessary.
+
 **Overall, the provided database schema provides a solid foundation for an email management system.** By addressing the mentioned considerations, you can further enhance its performance and scalability.
