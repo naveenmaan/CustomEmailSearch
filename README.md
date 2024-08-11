@@ -19,6 +19,10 @@ without modifying the core script.
   methods.
 
 ---
+## Demo
+Watch [demo](./docs/documentation/demo/demo.mp4).
+
+---
 ## Quick Start
 Read ["Installation"] and then ["Usage"] for the project.
 
